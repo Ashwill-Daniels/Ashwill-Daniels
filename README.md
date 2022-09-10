@@ -1,7 +1,7 @@
 Good Day 👋
 
-- I am currently studying Hyperion Development's Full Stack Web Development Bootcamp course.
-- I have started with front end technologies (HTML, CSS, Javascript and React.js) and will soon move to the back end technologies(Node.js and MongoDB).
-- My goal is to become a full stack software engineer in the future.
+- I am currently trying to improve my analytics skills and become more efficient with the tools (Spreadsheets, SQL and R/Python).
+- I recently finished the Google Data Analytics Certificate.
+- My goal is to become a Data Analyst.
 - Please check out my profile: https://www.linkedin.com/in/ashwill-daniels-00990b1aa/
-- Fun fact: I'm studying Japanese.
+- Fun fact: I'm studying Japanese and Spanish.
